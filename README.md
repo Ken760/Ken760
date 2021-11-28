@@ -1,6 +1,6 @@
 <h1><img src="" width="40" height="40"> Hi there!</h1> 👋
 
-<h1><img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40" height="40"> Technologies & Tools</h1>
+<h1><img src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="40" height="40"> Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=ffffff&color=2a4e70)
 ![](https://img.shields.io/badge/Django-informational?style=flat-square&logo=django&logoColor=ffffff&color=164c34)
