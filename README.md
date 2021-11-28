@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Django-informational?style=flat-square&logo=django&logoColor=ffffff&color=164c34)
 ![](https://img.shields.io/badge/FastApi-informational?style=flat-square&logo=FastApi&logoColor=white&color=289485)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=38688e)
+![](https://img.shields.io/badge/selenium-informational?style=flat-square&logo=selenium&logoColor=ffffff&color=69ba51)
 
 
 <h1>GitHub Stats</h1>
