@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/selenium-informational?style=flat-square&logo=selenium&logoColor=ffffff&color=69ba51)
 ![](https://img.shields.io/badge/pytest-informational?style=flat-square&logo=Pytest&logoColor=pytest&color=white)
 ![](https://img.shields.io/badge/docker-informational?style=flat-square&logo=Docker&logoColor=white&color=399aeb)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=d74422)
 
 
 <h1>GitHub Stats</h1>
