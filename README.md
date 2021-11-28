@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=38688e)
 ![](https://img.shields.io/badge/selenium-informational?style=flat-square&logo=selenium&logoColor=ffffff&color=69ba51)
 ![](https://img.shields.io/badge/pytest-informational?style=flat-square&logo=Pytest&logoColor=pytest&color=white)
+![](https://img.shields.io/badge/docker-informational?style=flat-square&logo=Docker&logoColor=white&color=399aeb)
 
 
 <h1>GitHub Stats</h1>
