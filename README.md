@@ -7,12 +7,13 @@
 ![](https://img.shields.io/badge/FastApi-informational?style=flat-square&logo=FastApi&logoColor=white&color=289485)
 ![](https://img.shields.io/badge/flask-informational?style=flat-square&logo=flask&logoColor=black&color=white)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=38688e)
+![](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&logoColor=009a00&color=white)
+![](https://img.shields.io/badge/gunicorn-informational?style=flat-square&logo=gunicorn&logoColor=009a00&color=f7f8f2)
 ![](https://img.shields.io/badge/selenium-informational?style=flat-square&logo=selenium&logoColor=ffffff&color=69ba51)
 ![](https://img.shields.io/badge/pytest-informational?style=flat-square&logo=Pytest&logoColor=pytest&color=white)
 ![](https://img.shields.io/badge/docker-informational?style=flat-square&logo=Docker&logoColor=white&color=399aeb)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=d74422)
-![](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&logoColor=009a00&color=white)
-![](https://img.shields.io/badge/gunicorn-informational?style=flat-square&logo=gunicorn&logoColor=009a00&color=f7f8f2)
+
 ![](https://img.shields.io/badge/-informational?style=flat-square&logo=Bitcoin&logoColor=009a00&color=white)
 
 <h1>GitHub Stats</h1>
