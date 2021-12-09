@@ -2,7 +2,6 @@
 
 <h1>Technologies & Tools</h1>
 
-![](https://img.shields.io/badge/-informational?style=flat-square&logo=Bitcoin&logoColor=009a00&color=white)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=ffffff&color=2a4e70)
 ![](https://img.shields.io/badge/Django-informational?style=flat-square&logo=django&logoColor=ffffff&color=164c34)
 ![](https://img.shields.io/badge/FastApi-informational?style=flat-square&logo=FastApi&logoColor=white&color=289485)
@@ -14,6 +13,7 @@
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=d74422)
 ![](https://img.shields.io/badge/Nginx-informational?style=flat-square&logo=nginx&logoColor=009a00&color=white)
 ![](https://img.shields.io/badge/gunicorn-informational?style=flat-square&logo=gunicorn&logoColor=009a00&color=f7f8f2)
+![](https://img.shields.io/badge/-informational?style=flat-square&logo=Bitcoin&logoColor=009a00&color=white)
 
 <h1>GitHub Stats</h1>
 
