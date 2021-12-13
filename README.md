@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/pytest-informational?style=flat-square&logo=Pytest&logoColor=pytest&color=white)
 ![](https://img.shields.io/badge/docker-informational?style=flat-square&logo=Docker&logoColor=white&color=399aeb)
 ![](https://img.shields.io/badge/Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=d74422)
-![](https://img.shields.io/badge/-informational?style=flat-square&logo=Bitcoin&logoColor=009a00&color=0d1017)
 
 <h1>GitHub Stats</h1>
 
